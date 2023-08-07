@@ -1,3 +1,6 @@
+## Paused
+[READ HERE](https://github.com/tahaghafuri/ioncube_decoder)
+<!--
 # PHP Decode
 For Request Contact With <a href="mailto:info@tagservice.ir">info@tagservice.ir</a>!
 # PHPBolt
@@ -10,3 +13,4 @@ Cost Per File Decryption: $7
 Cost Per File Decryption: $3
 # Tags
 PHPBolt Decode,Ioncube Decoder Free,SourceGuardian Decoder
+-->
